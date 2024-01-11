@@ -32,7 +32,7 @@ The average MCC scores for each classification model are as follows:
 |Naive Bayes | 0.64 | 0.64 |
 
 
-## Instructions for Reproduction
+## How to Use
 - Clone this repository to your local machine.
 - Ensure you have the required Python libraries installed by running pip install -r requirements.txt.
 - Execute the Jupyter Notebook files in sequential order to reproduce the analysis.
