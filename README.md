@@ -25,11 +25,11 @@ The project is organized into the following sections:
 The average MCC scores for each classification model are as follows:
 |Model Types| Treated as categorical (Binary format) Mean MCC | Treated as numerical (Ordinal) Mean MCC |
 |-----------|------------------|-----------|
-|Decision Tree | 0.90 | 0.81 |
-|K-NN | 0.64 | 0.95|
-|Logistic Regression | 0.83 | 0.81 |
+|Decision Tree | 0.88 | 0.81 |
+|K-NN | 0.97 | 0.95|
+|Logistic Regression | 0.85 | 0.81 |
 |SVM Classification | 0.99 | 0.97 |
-|Naive Bayes | 0.80 | 0.64 |
+|Naive Bayes | 0.64 | 0.64 |
 
 
 ## Instructions for Reproduction
