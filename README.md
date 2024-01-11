@@ -23,11 +23,14 @@ The project is organized into the following sections:
 
 ## Results
 The average MCC scores for each classification model are as follows:
-Decision Tree: 0.8088
-K-Nearest Neighbors: 0.9525
-Logistic Regression: 0.8152
-Support Vector Machine: 0.9666
-Naive Bayes: 0.6413
+|Model Types| Treated as categorical (Binary format) Mean MCC | Treated as numerical (Ordinal) Mean MCC |
+|-----------|------------------|-----------|
+|Decision Tree | 0.90 | 0.81 |
+|K-NN | 0.64 | 0.95|
+|Logistic Regression | 0.83 | 0.81 |
+|SVM Classification | 0.99 | 0.97 |
+|Naive Bayes | 0.80 | 0.64 |
+
 
 ## Instructions for Reproduction
 - Clone this repository to your local machine.
